@@ -165,11 +165,6 @@ main {
 section {
   position: relative;
   margin-bottom: 20px;
-  /* max-height: 100vh; */
-}
-section .landing__container {
-  /* max-height: 90vh; */
-  /* overflow: scroll; */
 }
 section h2 {
   cursor: pointer;
