@@ -15,3 +15,13 @@ Show and Hide Navbar On Scrolling.
 Activate Section When partially Visable.
 
 Added Active class to links when clicked.
+
+# Issues Fixed At Seconde Submit.
+
+Added scrollToSection function.
+
+Increased navbar vanish duration to 3000.
+
+Used scrollTo instead of anchor for up button.
+
+Edit collapse to be by clicking h2 not all the section.
